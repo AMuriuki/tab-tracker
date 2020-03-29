@@ -25,7 +25,7 @@ export default {
   mounted () {
     setTimeout(() => {
       this.email = 'hello world'
-    }, 1000)
+    }, 3000)
   }
 }
 </script>
